@@ -2,8 +2,13 @@ import 'package:flutter/material.dart';
 
 class ProductsTile extends StatelessWidget {
   final double top;
+  final Image image;
+  final String productName;
+  final double productPrice;
 
-  const ProductsTile({Key key, this.top}) : super(key: key);
+  const ProductsTile(
+      {Key key, this.top, this.image, this.productName, this.productPrice})
+      : super(key: key);
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(

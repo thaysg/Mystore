@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:store/screens/home/components/my_carousel.dart';
 import 'package:store/screens/home/components/section_list.dart';
 import 'package:store/screens/home/components/section_staggered.dart';
 
@@ -11,7 +12,7 @@ class PageViewApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Column(
-        children: [SectionList(), SectionStaggered()],
+        children: [MyCarousel(), SectionList(), SectionStaggered()],
       ),
     );
   }

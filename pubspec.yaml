@@ -48,6 +48,17 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - images/modelo.png #Ícones feitos por <a href="https://www.flaticon.com/br/autores/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/foco.png #Ícones feitos por <a href="https://www.flaticon.com/br/autores/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/baixar.png #Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/album-de-musica.png #Ícones feitos por <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/web-design.png #Ícones feitos por <a href="" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/configuracao.png #Ícones feitos por <a href="" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/pentagrama.png #Ícones feitos por <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+    - images/brincar.png #Ícones feitos por <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
